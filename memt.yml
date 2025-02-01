@@ -1,0 +1,16 @@
+MemberIndices:
+  - Index: 0
+    Player: 0
+    Friend1: 1
+    Friend2: 2
+    FriendWorld: 18
+  - Index: 5
+    Player: 0
+    Friend1: 3
+    Friend2: 2
+    FriendWorld: 1
+  - Index: 6
+    Player: 0
+    Friend1: 1
+    Friend2: 2
+    FriendWorld: 18
